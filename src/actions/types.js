@@ -1,0 +1,4 @@
+export const SET_BOOKS = 'SET_BOOKS'
+export const ADD_TO_CART = 'ADD_TO_CART'
+export const REMOVE_FROM_CART = 'REMOVE_FROM_CART'
+export const CART_MODAL_TOGGLE = 'CART_MODAL_TOGGLE'
